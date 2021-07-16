@@ -4,7 +4,7 @@ Instale as dependencia (um de cada vez) das pastas backend e frontend utilizando
 
 No prompt de comando inicie o mongodb com "mongod".
 
-Em outra aba do prompt de comando, navegue até projetoArtigos\backend e utilize "psql -U postgres",senha "123456", para acessar o banco onde será armazenado o cadastro dos usuarios.
+Em outra aba do prompt de comando, navegue até Artigo\backend e utilize "psql -U postgres",senha "123456", para acessar o banco onde será armazenado o cadastro dos usuarios.
 
 Pelo CMD navegue até as pastas backend e frontend. Inicie cada um deles utilizando um comando, no backend "npm start" e para o frontend utilize "npm run serve -- --port 8081".
 
